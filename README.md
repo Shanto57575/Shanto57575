@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shanto57575&label=Profile%20views&color=0e75b6&style=flat" alt="shanto57575" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shanto57575" alt="shanto57575" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/shahidu37823405" target="blank"><img src="https://img.shields.io/twitter/follow/shahidu37823405?logo=twitter&style=for-the-badge" alt="shahidu37823405" /></a> </p>
 
 - 🔭 I’m currently working on [Chef-hunter](https://chef-recipe-hunter-ec167.web.app/)
