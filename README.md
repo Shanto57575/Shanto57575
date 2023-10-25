@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **shahidul.islam.7th@gmail.com**
 
-- 📄 My Resume [My resume](https://drive.google.com/file/d/1tmCPuiNEC4hLnCOtzobSJQLAohlsvNWk/view?usp=sharing)
+- 📄[My resume](https://drive.google.com/file/d/1tmCPuiNEC4hLnCOtzobSJQLAohlsvNWk/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
