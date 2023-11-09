@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sh@nto</h1>
-<h3 align="center">Welcome to my GitHub repository! I'm thrilled to have you here. My name is Shanto, and I'm a passionate Full Stack Developer. I have a deep love for coding and enjoy building innovative solutions that solve real-world problems.</h3>
+<h3 align="center">Welcome to my GitHub repository! I'm thrilled to have you here.I'm a passionate Mern Stack Developer. I have a deep love for coding and enjoy building innovative solutions that solve real-world problems.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shanto57575&label=Profile%20views&color=0e75b6&style=flat" alt="shanto57575" /> </p>
 
@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **Next js**
 
-- 👨‍💻 All of my projects are available at [https://shanwebcraft.netlify.app/](https://shanwebcraft.netlify.app/)
+- 👨‍💻 Portfolio : [https://shanwebcraft.netlify.app/](https://shanwebcraft.netlify.app/)
 
 - 💬 Ask me about **react, javascript, c++**
 
-- 📫 How to reach me **shahidul.islam.7th@gmail.com**
+- 📫 Contact me :  **shahidul.islam.7th@gmail.com**
 
-- 📄[My resume](https://drive.google.com/file/d/1tmCPuiNEC4hLnCOtzobSJQLAohlsvNWk/view?usp=sharing)
+- 📄[Hire Me](https://drive.google.com/file/d/1tmCPuiNEC4hLnCOtzobSJQLAohlsvNWk/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
