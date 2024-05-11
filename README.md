@@ -53,11 +53,11 @@ ___
 ___
 <h1 align="left">Numbers</h1>
 
-<div align="left">
-  <a href="https://git.io/streak-stats">
+<div align="center">
+  <a href="https://git.io/streak-stats" width="50%">
     <img src="https://streak-stats.demolab.com?user=Shanto57575&theme=blue-navy&card_width=450" alt="GitHub Streak">
   </a>
-  <a href="https://github.com/Shanto57575/github-readme-stats">
+  <a href="https://github.com/Shanto57575/github-readme-stats" width="50%">
     <img src="https://github-readme-stats.vercel.app/api?username=Shanto57575&show_icons=true&theme=transparent" alt="Shanto's GitHub stats">
   </a>
 </div>
