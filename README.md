@@ -25,15 +25,15 @@
 </div>
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
-    <div>
+    <div style="width: 50%;">
         <ul>
-            <li>👨‍💻 Check Out My Projects <a href="https://github.com/Shanto57575">GitHub</a></li>
-            <li>📫 I am just one mail away <a href="mailto:shahidul.islam.7th@gmail.com">shahidul.islam.7th@gmail.com</a></li>
-            <li>📄 My <a href="https://drive.google.com/file/d/14PZc0XHRW6hxw1pNiWO7d-Hw-k76_-1f/view?usp=sharing">Resume</a></li>
-            <li>🎥 Pastime <strong>Cricket & Movie Aficionado</strong></li>
+            <li>👨‍💻 Check Out My <a href="https://github.com/Shanto57575">Projects</a></li>
+            <li>📫 I am just one <a href="mailto:shahidul.islam.7th@gmail.com">mail</a> away</li>
+            <li>📄 My <a href="https://drive.google.com/file/d/14PZc0XHRW6hxw1pNiWO7d-Hw-k76_-1f/view?usp=sharing">resume</a></li>
+            <li>🎥 Interests: <strong>Cricket Enthusiast & Movie Freak</strong></li>
         </ul>
     </div>
-    <div>
+    <div style="width: 50%;">
         <img src="https://miro.medium.com/v2/resize:fit:1278/1*XC8smpR5WreT96bwSVNzjg.gif" alt="Profile Image" width="300" height="200"/>
     </div>
 </div>
@@ -47,7 +47,7 @@ ___
 
 <div align="left">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Shanto57575&theme=blue-navy&card_width=450" alt="GitHub Streak">
+    <img src="https://streak-stats.demolab.com?user=Shanto57575&theme=blue-navy&card_width=440" alt="GitHub Streak">
   </a>
   <a href="https://github.com/Shanto57575/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=Shanto57575&show_icons=true&theme=transparent" alt="Shanto's GitHub stats">
@@ -56,8 +56,8 @@ ___
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/Shahidu37823405" target="_blank"><img align="center" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" width="700" height="40" /></a>
-<a href="https://www.linkedin.com/in/md-shahidul-islam-shanto/" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="70" height="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100021587690987" target="_blank"><img align="center" src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" width="70" height="40" /></a>
-<a href="https://www.instagram.com/_shanto16_3/" target="_blank"><img align="center" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" width="70" height="40" /></a>
+<a href="https://twitter.com/Shahidu37823405" target="_blank"><img align="center" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" width="80" height="40" /></a>
+<a href="https://www.linkedin.com/in/md-shahidul-islam-shanto/" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="80" height="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100021587690987" target="_blank"><img align="center" src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" width="80" height="40" /></a>
+<a href="https://www.instagram.com/_shanto16_3/" target="_blank"><img align="center" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" width="80" height="40" /></a>
 </p>
