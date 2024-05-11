@@ -53,14 +53,8 @@ ___
 ___
 <h3 align="left">STATS...</h3>
 
-<div align="center">
-  <a href="https://git.io/streak-stats" width="50%">
-    <img src="https://streak-stats.demolab.com?user=Shanto57575&theme=blue-navy&card_width=450" alt="GitHub Streak">
-  </a>
-  <a href="https://github.com/Shanto57575/github-readme-stats" width="50%">
-    <img src="https://github-readme-stats.vercel.app/api?username=Shanto57575&show_icons=true&theme=blue-navy" alt="Shanto's GitHub stats">
-  </a>
-</div>
+![Shanto's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shanto57575&theme=blue_navy&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shanto57575&theme=blue_navy&layout=pie)](https://github.com/Shanto57575/github-readme-stats)
 
 <h3 align="left">Where To Find Me...</h3>
 <p align="left">
