@@ -38,39 +38,10 @@
 
 <p align="left" style="margin-top:10px;"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shanto57575&theme=dracula" alt="shanto57575" /></a> </p>
 
-## Technologies I Work With
-
-<p align="center" style="margin-top:10px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="80" height="30"/>
-  <img src="https://jwt.io/img/pic_logo.svg" alt="JWT" width="80" height="30"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" />
-  <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" alt="Redux Toolkit" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongoose/mongoose-original.svg" alt="Mongoose" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" />
-  <img src="https://iconape.com/wp-content/png_logo_vector/git-icon.png" alt="Git" />
-  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" />
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" />
-  <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="Netlify" />
-  <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="Vercel" />
-  <img src="https://img.icons8.com/color/452/visual-studio-code-2019.png" alt="VS Code" />
-</p>
-
-
 <div style="display:flex;justify-content:space-around;margin-bottom:20px;">
-  <img style="width:45%;filter:contrast(90%) brightness(110%) saturate(130%);" src="https://github-readme-stats.vercel.app/api/top-langs?username=shanto57575&show_icons=true&locale=en&layout=compact" alt="shanto57575" />
-  <img style="width:45%;filter:contrast(90%) brightness(110%) saturate(130%);" src="https://github-readme-stats.vercel.app/api?username=shanto57575&show_icons=true&locale=en" alt="shanto57575" />
-</div>
-<div style="text-align:center;">
-  <img style="filter:contrast(90%) brightness(110%) saturate(130%);" src="https://github-readme-streak-stats.herokuapp.com/?user=shanto57575" alt="shanto57575" />
+  <img style="width:45%;filter:contrast(90%) brightness(110%) saturate(130%); border-radius: 10px; box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);" src="https://github-readme-stats.vercel.app/api/top-langs?username=shanto57575&show_icons=true&locale=en&layout=compact" alt="shanto57575" />
+  <img style="width:45%;filter:contrast(90%) brightness(110%) saturate(130%); border-radius: 10px; box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);" src="https://github-readme-stats.vercel.app/api?username=shanto57575&show_icons=true&locale=en" alt="shanto57575" />
+  <img style="width:10%;filter:contrast(90%) brightness(110%) saturate(130%); border-radius: 10px; box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);" src="https://github-readme-streak-stats.herokuapp.com/?user=shanto57575" alt="shanto57575" />
 </div>
 
 <h3 align="left">Connect with me:</h3>
