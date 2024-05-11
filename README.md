@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sh@nto</h1>
 <h3 align="center">Software Engineer in the Making | MERN Enthusiast | DSA Devotee</h3>
 
+
 <div align="center">
     <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://img.shields.io/badge/-C%2B%2B-blue?style=for-the-badge&logo=c%2B%2B" alt="C++"></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript" alt="JavaScript"></a>
@@ -24,6 +25,8 @@
     <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/-VS_Code-blue?style=for-the-badge&logo=visual-studio-code" alt="VS Code"></a>
 </div>
 
+____
+
 <div style="display: flex; align-items: center; justify-content: space-between;">
     <div style="width: 50%;">
         <ul>
@@ -34,7 +37,7 @@
         </ul>
     </div>
     <div style="width: 50%;">
-        <img src="https://miro.medium.com/v2/resize:fit:1278/1*XC8smpR5WreT96bwSVNzjg.gif" alt="Profile Image" width="300" height="200"/>
+        <img src="https://miro.medium.com/v2/resize:fit:1278/1*XC8smpR5WreT96bwSVNzjg.gif" alt="Profile Image"/>
     </div>
 </div>
 
@@ -54,10 +57,10 @@ ___
   </a>
 </div>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Where to find me __</h3>
 <p align="left">
-<a href="https://twitter.com/Shahidu37823405" target="_blank"><img align="center" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" width="80" height="40" /></a>
-<a href="https://www.linkedin.com/in/md-shahidul-islam-shanto/" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="80" height="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100021587690987" target="_blank"><img align="center" src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" width="80" height="40" /></a>
-<a href="https://www.instagram.com/_shanto16_3/" target="_blank"><img align="center" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" width="80" height="40" /></a>
+<a href="https://twitter.com/Shahidu37823405" target="_blank"><img align="center" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" width="80" height="30" /></a>
+<a href="https://www.linkedin.com/in/md-shahidul-islam-shanto/" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="80" height="30" /></a>
+<a href="https://www.facebook.com/profile.php?id=100021587690987" target="_blank"><img align="center" src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" width="80" height="30" /></a>
+<a href="https://www.instagram.com/_shanto16_3/" target="_blank"><img align="center" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" width="80" height="30" /></a>
 </p>
