@@ -43,7 +43,7 @@
   <img style="width:45%;filter:contrast(90%) brightness(110%) saturate(130%);border-radius:10px;" src="https://github-readme-stats.vercel.app/api?username=shanto57575&show_icons=true&locale=en" alt="shanto57575" />
 </div>
 <div style="text-align:center;background-color:#f3f4f6;padding:20px;border-radius:10px;">
-  <img style="filter:contrast(90%) brightness(110%) saturate(130%);border-radius:10px;" src="https://github-readme-streak-stats.herokuapp.com/?user=shanto57575" alt="shanto57575" />
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=&theme=blue-navy" alt="GitHub Streak" /></a>
 </div>
 
 <h3 align="left">Connect with me:</h3>
