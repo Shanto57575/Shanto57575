@@ -38,25 +38,26 @@
     </div>
 </div>
 
+___
+
 <p align="left" style="margin-top:10px;"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shanto57575&theme=dracula" alt="shanto57575" /></a> </p>
 
+___
 <h1 align="left">Numbers</h1>
-<div align="center">
+
+<div align="left">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=Shanto57575&theme=blue-navy&card_width=450" alt="GitHub Streak">
   </a>
-</div>
-
-<div align="center">
   <a href="https://github.com/Shanto57575/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Shanto57575&theme=blue-navy&card_width=450" alt="Shanto's GitHub stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Shanto57575&show_icons=true&theme=transparent" alt="Shanto's GitHub stats">
   </a>
 </div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/Shahidu37823405" target="_blank"><img align="center" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" width="40" height="40" /></a>
-<a href="https://www.linkedin.com/in/md-shahidul-islam-shanto/" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="40" height="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100021587690987" target="_blank"><img align="center" src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" width="40" height="40" /></a>
-<a href="https://www.instagram.com/_shanto16_3/" target="_blank"><img align="center" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" width="40" height="40" /></a>
+<a href="https://twitter.com/Shahidu37823405" target="_blank"><img align="center" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" width="700" height="40" /></a>
+<a href="https://www.linkedin.com/in/md-shahidul-islam-shanto/" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="70" height="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100021587690987" target="_blank"><img align="center" src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" width="70" height="40" /></a>
+<a href="https://www.instagram.com/_shanto16_3/" target="_blank"><img align="center" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" width="70" height="40" /></a>
 </p>
