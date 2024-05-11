@@ -29,7 +29,7 @@
 ____
 
 <div>
-    <div align="center" style="width: 50%;">
+    <div align="left" style="width: 50%;">
         <ul>
             <li>🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.</li>
             <li>👯 I’m currently open for work and employment opportunities (remote , Internship, Full-time)</li>
@@ -40,7 +40,7 @@ ____
         </ul>
     </div>
     <div align="center">
-        <img src="https://miro.medium.com/v2/resize:fit:1278/1*XC8smpR5WreT96bwSVNzjg.gif" alt="Profile Image" width="300" height="200" />
+        <img src="https://miro.medium.com/v2/resize:fit:1278/1*XC8smpR5WreT96bwSVNzjg.gif" alt="Profile Image" />
     </div>
 </div>
 
