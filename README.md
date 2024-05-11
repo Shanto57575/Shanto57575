@@ -38,13 +38,7 @@
 
 <p align="left" style="margin-top:10px;"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shanto57575&theme=dracula" alt="shanto57575" /></a> </p>
 
-<div style="display:flex;justify-content:space-around;margin-bottom:20px;background-color:#f3f4f6;padding:20px;border-radius:10px;">
-  <img style="width:45%;filter:contrast(90%) brightness(110%) saturate(130%);border-radius:10px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=shanto57575&show_icons=true&locale=en&layout=compact" alt="shanto57575" />
-  <img style="width:45%;filter:contrast(90%) brightness(110%) saturate(130%);border-radius:10px;" src="https://github-readme-stats.vercel.app/api?username=shanto57575&show_icons=true&locale=en" alt="shanto57575" />
-</div>
-<div style="text-align:center;background-color:#f3f4f6;padding:20px;border-radius:10px;">
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=&theme=blue-navy" alt="GitHub Streak" /></a>
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Shanto57575&theme=blue-navy&hide_border=true&card_width=450)](https://git.io/streak-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
