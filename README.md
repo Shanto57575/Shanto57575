@@ -1,44 +1,49 @@
 <h1 align="center">Hi 👋, I'm Sh@nto</h1>
 <h3 align="center">Software Engineer in the Making | MERN Enthusiast | DSA Devotee</h3>
 
-[![C++](https://img.shields.io/badge/-C%2B%2B-blue?style=for-the-badge&logo=c%2B%2B)](https://en.wikipedia.org/wiki/C%2B%2B)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![React](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react)](https://reactjs.org/)
-[![Redux](https://img.shields.io/badge/-Redux-purple?style=for-the-badge&logo=redux)](https://redux.js.org/)
-[![HTML5](https://img.shields.io/badge/-HTML5-red?style=for-the-badge&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/-CSS3-blue?style=for-the-badge&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-lightblue?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=for-the-badge&logo=bootstrap)](https://getbootstrap.com/)
-[![Node.js](https://img.shields.io/badge/-Node.js-green?style=for-the-badge&logo=node.js)](https://nodejs.org/)
-[![Express.js](https://img.shields.io/badge/-Express.js-lightgrey?style=for-the-badge&logo=express)](https://expressjs.com/)
-[![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=for-the-badge&logo=mongodb)](https://www.mongodb.com/)
-[![Mongoose](https://img.shields.io/badge/-Mongoose-orange?style=for-the-badge&logo=mongoose)](https://mongoosejs.com/)
-[![Firebase](https://img.shields.io/badge/-Firebase-orange?style=for-the-badge&logo=firebase)](https://firebase.google.com/)
-[![JWT](https://img.shields.io/badge/-JWT-yellow?style=for-the-badge&logo=json-web-tokens)](https://jwt.io/)
-[![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/-GitHub-grey?style=for-the-badge&logo=github)](https://github.com/)
-[![Netlify](https://img.shields.io/badge/-Netlify-blue?style=for-the-badge&logo=netlify)](https://www.netlify.com/)
-[![Vercel](https://img.shields.io/badge/-Vercel-blue?style=for-the-badge&logo=vercel)](https://vercel.com/)
-[![Figma](https://img.shields.io/badge/-Figma-blueviolet?style=for-the-badge&logo=figma)](https://www.figma.com/)
-[![VS Code](https://img.shields.io/badge/-VS_Code-blue?style=for-the-badge&logo=visual-studio-code)](https://code.visualstudio.com/)
+<div align="center">
+    <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://img.shields.io/badge/-C%2B%2B-blue?style=for-the-badge&logo=c%2B%2B" alt="C++"></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript" alt="JavaScript"></a>
+    <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react" alt="React"></a>
+    <a href="https://redux.js.org/"><img src="https://img.shields.io/badge/-Redux-purple?style=for-the-badge&logo=redux" alt="Redux"></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/-HTML5-red?style=for-the-badge&logo=html5" alt="HTML5"></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/-CSS3-blue?style=for-the-badge&logo=css3" alt="CSS3"></a>
+    <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/-Tailwind_CSS-lightblue?style=for-the-badge&logo=tailwind-css" alt="Tailwind CSS"></a>
+    <a href="https://getbootstrap.com/"><img src="https://img.shields.io/badge/-Bootstrap-purple?style=for-the-badge&logo=bootstrap" alt="Bootstrap"></a>
+    <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/-Node.js-green?style=for-the-badge&logo=node.js" alt="Node.js"></a>
+    <a href="https://expressjs.com/"><img src="https://img.shields.io/badge/-Express.js-lightgrey?style=for-the-badge&logo=express" alt="Express.js"></a>
+    <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/-MongoDB-green?style=for-the-badge&logo=mongodb" alt="MongoDB"></a>
+    <a href="https://mongoosejs.com/"><img src="https://img.shields.io/badge/-Mongoose-orange?style=for-the-badge&logo=mongoose" alt="Mongoose"></a>
+    <a href="https://firebase.google.com/"><img src="https://img.shields.io/badge/-Firebase-orange?style=for-the-badge&logo=firebase" alt="Firebase"></a>
+    <a href="https://jwt.io/"><img src="https://img.shields.io/badge/-JWT-yellow?style=for-the-badge&logo=json-web-tokens" alt="JWT"></a>
+    <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git" alt="Git"></a>
+    <a href="https://github.com/"><img src="https://img.shields.io/badge/-GitHub-grey?style=for-the-badge&logo=github" alt="GitHub"></a>
+    <a href="https://www.netlify.com/"><img src="https://img.shields.io/badge/-Netlify-blue?style=for-the-badge&logo=netlify" alt="Netlify"></a>
+    <a href="https://vercel.com/"><img src="https://img.shields.io/badge/-Vercel-blue?style=for-the-badge&logo=vercel" alt="Vercel"></a>
+    <a href="https://www.figma.com/"><img src="https://img.shields.io/badge/-Figma-blueviolet?style=for-the-badge&logo=figma" alt="Figma"></a>
+    <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/-VS_Code-blue?style=for-the-badge&logo=visual-studio-code" alt="VS Code"></a>
+</div>
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
     <div>
-    <ul>
-      <li>👨‍💻 Check Out My Projects <a href="https://github.com/Shanto57575">GitHub</a></li>
-      <li>📫 I am just one mail away shahidul.islam.7th@gmail.com</li>
-      <li>📄 My <a href="https://drive.google.com/file/d/14PZc0XHRW6hxw1pNiWO7d-Hw-k76_-1f/view?usp=sharing">Resume</a></li>
-      <li>🎥 Pastime <strong>Cricket & Movie Aficionado</strong></li>
-    </ul>
-  </div>
-  <div>
-    <img src="https://miro.medium.com/v2/resize:fit:1278/1*XC8smpR5WreT96bwSVNzjg.gif" alt="Profile Image" width="300" height="200"/>
-  </div>
+        <ul>
+            <li>👨‍💻 Check Out My Projects <a href="https://github.com/Shanto57575">GitHub</a></li>
+            <li>📫 I am just one mail away <a href="mailto:shahidul.islam.7th@gmail.com">shahidul.islam.7th@gmail.com</a></li>
+            <li>📄 My <a href="https://drive.google.com/file/d/14PZc0XHRW6hxw1pNiWO7d-Hw-k76_-1f/view?usp=sharing">Resume</a></li>
+            <li>🎥 Pastime <strong>Cricket & Movie Aficionado</strong></li>
+        </ul>
+    </div>
+    <div>
+        <img src="https://miro.medium.com/v2/resize:fit:1278/1*XC8smpR5WreT96bwSVNzjg.gif" alt="Profile Image" width="300" height="200"/>
+    </div>
 </div>
 
 <p align="left" style="margin-top:10px;"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shanto57575&theme=dracula" alt="shanto57575" /></a> </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Shanto57575&theme=blue-navy&hide_border=true&card_width=450)](https://git.io/streak-stats)
+<h1 align="left">Numbers</h1>
+<div align="center">
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Shanto57575&theme=blue-navy&card_width=450)](https://git.io/streak-stats)
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
