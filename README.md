@@ -58,8 +58,16 @@ ___
     <img src="https://streak-stats.demolab.com?user=Shanto57575&theme=blue-navy&card_width=450" alt="GitHub Streak">
   </a>
   <a href="https://github.com/Shanto57575/github-readme-stats" width="50%">
-    <img src="https://github-readme-stats.vercel.app/api?username=Shanto57575&show_icons=true&theme=transparent" alt="Shanto's GitHub stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Shanto57575&show_icons=true&theme=blue-navy" alt="Shanto's GitHub stats">
   </a>
+    <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
+    <a href="https://git.io/streak-stats" style="width: 50%;">
+      <img src="https://streak-stats.demolab.com?user=Shanto57575&theme=blue-navy&card_width=450" alt="GitHub Streak">
+    </a>
+    <a href="https://github.com/Shanto57575/github-readme-stats" style="width: 50%;">
+      <img src="https://github-readme-stats.vercel.app/api?username=Shanto57575&show_icons=true&theme=blue-navy" alt="Shanto's GitHub stats">
+    </a>
+  </div>
 </div>
 
 <h3 align="left">Where To Find Me...</h3>
