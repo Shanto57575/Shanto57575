@@ -1,11 +1,26 @@
 <h1 align="center">Hi 👋, I'm Sh@nto</h1>
-
-[![Top Langs](https://img.shields.io/github/languages/top/shanto57575/shanto57575?style=for-the-badge)](https://github.com/shanto57575/shanto57575)
-[![GitHub last commit](https://img.shields.io/github/last-commit/shanto57575/shanto57575?style=for-the-badge)](https://github.com/shanto57575/shanto57575/commits/master)
-[![GitHub followers](https://img.shields.io/github/followers/shanto57575?style=for-the-badge)](https://github.com/shanto57575?tab=followers)
-[![GitHub Repo stars](https://img.shields.io/github/stars/shanto57575/shanto57575?style=for-the-badge)](https://github.com/shanto57575/shanto57575/stargazers)
-
 <h3 align="center">Software Engineer in the Making | MERN Enthusiast | DSA Devotee</h3>
+
+[![C++](https://img.shields.io/badge/-C%2B%2B-blue?style=for-the-badge&logo=c%2B%2B)](https://en.wikipedia.org/wiki/C%2B%2B)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![React](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react)](https://reactjs.org/)
+[![Redux](https://img.shields.io/badge/-Redux-purple?style=for-the-badge&logo=redux)](https://redux.js.org/)
+[![HTML5](https://img.shields.io/badge/-HTML5-red?style=for-the-badge&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/-CSS3-blue?style=for-the-badge&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-lightblue?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=for-the-badge&logo=bootstrap)](https://getbootstrap.com/)
+[![Node.js](https://img.shields.io/badge/-Node.js-green?style=for-the-badge&logo=node.js)](https://nodejs.org/)
+[![Express.js](https://img.shields.io/badge/-Express.js-lightgrey?style=for-the-badge&logo=express)](https://expressjs.com/)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=for-the-badge&logo=mongodb)](https://www.mongodb.com/)
+[![Mongoose](https://img.shields.io/badge/-Mongoose-orange?style=for-the-badge&logo=mongoose)](https://mongoosejs.com/)
+[![Firebase](https://img.shields.io/badge/-Firebase-orange?style=for-the-badge&logo=firebase)](https://firebase.google.com/)
+[![JWT](https://img.shields.io/badge/-JWT-yellow?style=for-the-badge&logo=json-web-tokens)](https://jwt.io/)
+[![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/-GitHub-grey?style=for-the-badge&logo=github)](https://github.com/)
+[![Netlify](https://img.shields.io/badge/-Netlify-blue?style=for-the-badge&logo=netlify)](https://www.netlify.com/)
+[![Vercel](https://img.shields.io/badge/-Vercel-blue?style=for-the-badge&logo=vercel)](https://vercel.com/)
+[![Figma](https://img.shields.io/badge/-Figma-blueviolet?style=for-the-badge&logo=figma)](https://www.figma.com/)
+[![VS Code](https://img.shields.io/badge/-VS_Code-blue?style=for-the-badge&logo=visual-studio-code)](https://code.visualstudio.com/)
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
     <div>
