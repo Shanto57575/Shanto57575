@@ -19,6 +19,7 @@
     <a href="https://jwt.io/"><img src="https://img.shields.io/badge/-JWT-yellow?style=for-the-badge&logo=json-web-tokens" alt="JWT"></a>
     <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git" alt="Git"></a>
     <a href="https://github.com/"><img src="https://img.shields.io/badge/-GitHub-grey?style=for-the-badge&logo=github" alt="GitHub"></a>
+    <a href="https://www.postman.com/"><img src="https://img.shields.io/badge/-Postman-orange?style=for-the-badge&logo=postman" alt="Postman"></a>
     <a href="https://www.netlify.com/"><img src="https://img.shields.io/badge/-Netlify-blue?style=for-the-badge&logo=netlify" alt="Netlify"></a>
     <a href="https://vercel.com/"><img src="https://img.shields.io/badge/-Vercel-blue?style=for-the-badge&logo=vercel" alt="Vercel"></a>
     <a href="https://www.figma.com/"><img src="https://img.shields.io/badge/-Figma-blueviolet?style=for-the-badge&logo=figma" alt="Figma"></a>
@@ -30,27 +31,31 @@ ____
 <div style="display: flex; align-items: center; justify-content: space-between;">
     <div style="width: 50%;">
         <ul>
+            <li>🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.</li>
+            <li>👯 I’m currently open for work and employment opportunities (remote , Internship, Full-time)</li>
             <li>👨‍💻 Check Out My <a href="https://github.com/Shanto57575">Projects</a></li>
-            <li>📫 I am just one <a href="mailto:shahidul.islam.7th@gmail.com">mail</a> away</li>
-            <li>📄 My <a href="https://drive.google.com/file/d/14PZc0XHRW6hxw1pNiWO7d-Hw-k76_-1f/view?usp=sharing">resume</a></li>
+            <li>📫 I am just one <a href="mailto:shahidul.islam.7th@gmail.com">Mail</a> away</li>
+            <li>📄 My <a href="https://drive.google.com/file/d/14PZc0XHRW6hxw1pNiWO7d-Hw-k76_-1f/view?usp=sharing">Resume</a></li>
             <li>🎥 Interests: <strong>Cricket Enthusiast & Movie Freak</strong></li>
         </ul>
     </div>
     <div style="width: 50%;">
-        <img src="https://miro.medium.com/v2/resize:fit:1278/1*XC8smpR5WreT96bwSVNzjg.gif" alt="Profile Image"/>
+        <img src="https://miro.medium.com/v2/resize:fit:1278/1*XC8smpR5WreT96bwSVNzjg.gif" alt="Profile Image" width="250" height="200" />
     </div>
 </div>
 
 ___
 
-<p align="left" style="margin-top:10px;"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shanto57575&theme=dracula" alt="shanto57575" /></a> </p>
+<p align="center" style="margin-top:10px;"> 
+    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profiletrophy.vercel.app/username=shanto57575&theme=dracula" alt="shanto57575" /></a> 
+</p>
 
 ___
 <h1 align="left">Numbers</h1>
 
 <div align="left">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Shanto57575&theme=blue-navy&card_width=440" alt="GitHub Streak">
+    <img src="https://streak-stats.demolab.com?user=Shanto57575&theme=blue-navy&card_width=450" alt="GitHub Streak">
   </a>
   <a href="https://github.com/Shanto57575/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=Shanto57575&show_icons=true&theme=transparent" alt="Shanto's GitHub stats">
@@ -59,8 +64,8 @@ ___
 
 <h3 align="left">Where to find me __</h3>
 <p align="left">
-<a href="https://twitter.com/Shahidu37823405" target="_blank"><img align="center" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" width="80" height="30" /></a>
-<a href="https://www.linkedin.com/in/md-shahidul-islam-shanto/" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="80" height="30" /></a>
-<a href="https://www.facebook.com/profile.php?id=100021587690987" target="_blank"><img align="center" src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" width="80" height="30" /></a>
-<a href="https://www.instagram.com/_shanto16_3/" target="_blank"><img align="center" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" width="80" height="30" /></a>
+<a href="https://twitter.com/Shahidu37823405" target="_blank"><img align="center" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" width="90" height="28" /></a>
+<a href="https://www.linkedin.com/in/md-shahidul-islam-shanto/" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="90" height="28" /></a>
+<a href="https://www.facebook.com/profile.php?id=100021587690987" target="_blank"><img align="center" src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" width="90" height="28" /></a>
+<a href="https://www.instagram.com/_shanto16_3/" target="_blank"><img align="center" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" width="90" height="28" /></a>
 </p>
