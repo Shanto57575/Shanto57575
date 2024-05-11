@@ -2,16 +2,21 @@
 
 <h3 align="center">Software Engineer in the Making | MERN Enthusiast | DSA Devotee</h3>
 
+<div style="display: flex; align-items: center; justify-content: center;">
+  <div style="flex: 1;">
+    <img src="https://miro.medium.com/v2/resize:fit:1278/1*XC8smpR5WreT96bwSVNzjg.gif" alt="Profile Image" width="300" height="200"/>
+  </div>
+  <div style="flex: 1;">
+    <ul>
+      <li>👨‍💻 Check Out My Projects <a href="https://github.com/Shanto57575">GitHub</a></li>
+      <li>📫 I am just one mail away shahidul.islam.7th@gmail.com</li>
+      <li>📄 My <a href="https://drive.google.com/file/d/14PZc0XHRW6hxw1pNiWO7d-Hw-k76_-1f/view?usp=sharing">Resume</a></li>
+      <li>🎥 Pastime <strong>Cricket & Movie Aficionado</strong></li>
+    </ul>
+  </div>
+</div>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shanto57575&theme=dracula" alt="shanto57575" /></a> </p>
-
-<p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1278/1*XC8smpR5WreT96bwSVNzjg.gif" alt="Profile Image" width="300" height="200"/>
-</p>
-
-- 👨‍💻 Check Out My Projects [GitHub](https://github.com/Shanto57575)
-- 📫 I am just one mail away shahidul.islam.7th@gmail.com
-- 📄 My [Resume](https://drive.google.com/file/d/14PZc0XHRW6hxw1pNiWO7d-Hw-k76_-1f/view?usp=sharing)
-- 🎥 Pastime **Cricket & Movie Aficionado**
 
 ## Technologies I Work With
 
@@ -20,27 +25,16 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-  <img src="https://avatars.githubusercontent.com/u/89546479?s=200&v=4" alt="Daisy UI" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/>
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reactrouter/reactrouter-original.svg" alt="React Router" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-  <img src="https://avatars.githubusercontent.com/u/89546479?s=200&v=4" alt="Daisy UI" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cpp/cpp-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://media.sketchfab.com/models/1b277fc32bbc451fa6f40e298996ba91/thumbnails/1c9c06b1fa3c4aaaa94a70bc7bfc3c7e/d369fbc48d5b479bb657791e4026ca34.jpeg" alt="C++" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/json/json-original.svg" alt="JSON" width="40" height="40"/>
   <img src="https://jwt.io/img/pic_logo.svg" alt="JWT" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/redux-original.svg" alt="React Redux" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" alt="Redux Toolkit" width="40" height="40"/>
 </p>
 
@@ -58,10 +52,8 @@
   <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="Netlify" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="Vercel" width="40" height="40"/>
   <img src="https://img.icons8.com/color/452/visual-studio-code-2019.png" alt="VS Code" width="40" height="40"/>
-  <img src="https://seeklogo.com/images/C/chrome-canary-logo-282697512C-seeklogo.com.png" alt="Chrome Dev Tools" width="40" height="40"/>
 </p>
 
-![Profile Image](https://miro.medium.com/v2/resize:fit:1278/1*XC8smpR5WreT96bwSVNzjg.gif)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shanto57575&show_icons=true&locale=en&layout=compact" alt="shanto57575" /></p>
 
