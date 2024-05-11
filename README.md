@@ -42,7 +42,15 @@
 
 <h1 align="left">Numbers</h1>
 <div align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com?user=Shanto57575&theme=blue-navy&card_width=450)](https://git.io/streak-stats)
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Shanto57575&theme=blue-navy&card_width=450" alt="GitHub Streak">
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/BreadcrumbsShanto57575/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=BreadcrumbsShanto57575" alt="Shanto's GitHub stats">
+  </a>
 </div>
 
 <h3 align="left">Connect with me:</h3>
