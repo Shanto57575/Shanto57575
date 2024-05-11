@@ -51,7 +51,7 @@ ___
 </p>
 
 ___
-<h1 align="left">STATS...</h1>
+<h3 align="left">STATS...</h3>
 
 <div align="center">
   <a href="https://git.io/streak-stats" width="50%">
