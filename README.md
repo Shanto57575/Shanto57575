@@ -38,19 +38,21 @@
 
 <p align="left" style="margin-top:10px;"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shanto57575&theme=dracula" alt="shanto57575" /></a> </p>
 
-<div style="display: flex; justify-content: space-around; margin-bottom: 20px;">
+<div style="display: flex; justify-content: space-around; margin-bottom: 20px; background-color: #f7f7f7; /* Light gray background */">
   <img
-    style="width: 45%; filter: contrast(90%) brightness(115%) saturate(140%); border-radius: 10px; box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.2); background: linear-gradient(to right, #f0f8ff, #e6f2fa);"
+    style="width: 33%; filter: contrast(90%) brightness(115%) saturate(140%); border-radius: 10px; box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.2); background: linear-gradient(to right, #f0f8ff, #e6f2fa);"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=shanto57575&show_icons=true&locale=en&layout=compact"
     alt="shanto57575 Top Languages"
   />
+
   <img
-    style="width: 45%; filter: contrast(90%) brightness(110%) saturate(130%); border-radius: 10px; box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.2); background: linear-gradient(to right, #ffecec, #f7cac9);"
+    style="width: 34%; filter: contrast(90%) brightness(110%) saturate(130%); border-radius: 10px; box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.2); background: linear-gradient(to right, #ffecec, #f7cac9);"
     src="https://github-readme-stats.vercel.app/api?username=shanto57575&show_icons=true&locale=en"
     alt="shanto57575 Activity"
   />
+
   <img
-    style="width: 10%; filter: contrast(90%) brightness(110%) saturate(130%); border-radius: 10px; box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.2); background: linear-gradient(to right, #c3e8cb, #a5e0a2);"
+    style="width: 33%; filter: contrast(90%) brightness(110%) saturate(130%); border-radius: 10px; box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.2); background: linear-gradient(to right, #c3e8cb, #a5e0a2);"
     src="https://github-readme-streak-stats.herokuapp.com/?user=shanto57575"
     alt="shanto57575 Contribution Streak"
   />
