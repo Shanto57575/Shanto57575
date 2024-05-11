@@ -28,26 +28,26 @@
 
 ____
 
-<div style="display: flex; align-items: center; justify-content: space-between; width: 100%;">
-    <div style="width: 45%;">
+<div>
+    <div align="center" style="width: 50%;">
         <ul>
-            <li>🌱 Lifelong learner, seizing every opportunity to grow and expand my skills</li>
-            <li>👯 Open to exciting work opportunities: Remote, Internship, Full-time.</li>
-            <li>👨‍💻 Explore My <a href="https://github.com/Shanto57575">Projects</a></li>
-            <li>📫 Drop me a <a href="mailto:shahidul.islam.7th@gmail.com">Mail</a></li>
-            <li>📄 Peek at My <a href="https://drive.google.com/file/d/14PZc0XHRW6hxw1pNiWO7d-Hw-k76_-1f/view?usp=sharing">Resume</a></li>
-            <li>🎥 <strong>Passionate about Cricket & Cinema</strong></li>
+            <li>🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.</li>
+            <li>👯 I’m currently open for work and employment opportunities (remote , Internship, Full-time)</li>
+            <li>👨‍💻 Check Out My <a href="https://github.com/Shanto57575">Projects</a></li>
+            <li>📫 I am just one <a href="mailto:shahidul.islam.7th@gmail.com">Mail</a> away</li>
+            <li>📄 My <a href="https://drive.google.com/file/d/14PZc0XHRW6hxw1pNiWO7d-Hw-k76_-1f/view?usp=sharing">Resume</a></li>
+            <li>🎥 Interests: <strong>Cricket Enthusiast & Movie Freak</strong></li>
         </ul>
     </div>
-    <div style="width: 45%;">
-        <img src="https://miro.medium.com/v2/resize:fit:1278/1*XC8smpR5WreT96bwSVNzjg.gif" alt="Profile Image" width="250" height="200" />
+    <div align="center">
+        <img src="https://miro.medium.com/v2/resize:fit:1278/1*XC8smpR5WreT96bwSVNzjg.gif" alt="Profile Image" width="300" height="200" />
     </div>
 </div>
 
 ___
 
 <p align="center" style="margin-top:10px;"> 
-    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profiletrophy.vercel.app/username=shanto57575&theme=dracula" alt="shanto57575" /></a> 
+    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shanto57575&theme=dracula" alt="shanto57575" /></a> 
 </p>
 
 ___
