@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sh@nto</h1>
 
+[![Top Langs](https://img.shields.io/github/languages/top/shanto57575/shanto57575?style=for-the-badge)](https://github.com/shanto57575/shanto57575)
+[![GitHub last commit](https://img.shields.io/github/last-commit/shanto57575/shanto57575?style=for-the-badge)](https://github.com/shanto57575/shanto57575/commits/master)
+[![GitHub followers](https://img.shields.io/github/followers/shanto57575?style=for-the-badge)](https://github.com/shanto57575?tab=followers)
+[![GitHub Repo stars](https://img.shields.io/github/stars/shanto57575/shanto57575?style=for-the-badge)](https://github.com/shanto57575/shanto57575/stargazers)
+
 <h3 align="center">Software Engineer in the Making | MERN Enthusiast | DSA Devotee</h3>
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
