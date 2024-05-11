@@ -31,8 +31,8 @@ ____
 <div>
     <div align="left" style="width: 50%;">
         <ul>
-            <li>🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.</li>
-            <li>👯 I’m currently open for work and employment opportunities (remote , Internship, Full-time)</li>
+            <li>🌱 Lifelong learner, seizing every opportunity to grow and expand my skills</li>
+            <li>👯 Open to exciting work opportunities: Remote, Internship, Full-time.</li>
             <li>👨‍💻 Check Out My <a href="https://github.com/Shanto57575">Projects</a></li>
             <li>📫 I am just one <a href="mailto:shahidul.islam.7th@gmail.com">Mail</a> away</li>
             <li>📄 My <a href="https://drive.google.com/file/d/14PZc0XHRW6hxw1pNiWO7d-Hw-k76_-1f/view?usp=sharing">Resume</a></li>
