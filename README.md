@@ -56,12 +56,14 @@ ___
 <a href="https://github.com/Shanto57575/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Shanto57575&theme=blue_navy&show_icons=true" />
 </a>
-<a href="https://github.com/Shanto57575/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shanto57575&theme=blue_navy&layout=pie" />
-</a>
 <a href="https://git.io/streak-stats">
   <img height=200 align="center" src="https://streak-stats.demolab.com?user=Shanto57575&theme=blue-navy&card_width=450" />
 </a>
+
+<a href="https://github.com/Shanto57575/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shanto57575&theme=blue_navy&layout=pie" />
+</a>
+
 
 <h3 align="left">Where To Find Me...</h3>
 <p align="left">
