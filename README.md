@@ -53,9 +53,15 @@ ___
 ___
 <h3 align="left">...STATS...</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shanto57575&theme=blue_navy&layout=pie)](https://github.com/Shanto57575/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=Shanto57575&theme=blue-navy&card_width=450)](https://git.io/streak-stats)
-![Shanto's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shanto57575&theme=blue_navy&show_icons=true)
+<a href="https://github.com/Shanto57575/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Shanto57575&theme=blue_navy&show_icons=true" />
+</a>
+<a href="https://github.com/Shanto57575/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shanto57575&theme=blue_navy&layout=pie" />
+</a>
+<a href="https://git.io/streak-stats">
+  <img height=200 align="center" src="https://streak-stats.demolab.com?user=Shanto57575&theme=blue-navy&card_width=450" />
+</a>
 
 <h3 align="left">Where To Find Me...</h3>
 <p align="left">
