@@ -35,7 +35,7 @@ ____
             <li>👯 Open to exciting work opportunities: Remote, Internship, Full-time.</li>
             <li>👨‍💻 Check Out My <a href="https://github.com/Shanto57575">Projects</a></li>
             <li>📫 I am just one <a href="mailto:shahidul.islam.7th@gmail.com">Mail</a> away</li>
-            <li>📄 My <a href="https://drive.google.com/file/d/14PZc0XHRW6hxw1pNiWO7d-Hw-k76_-1f/view?usp=sharing">Resume</a></li>
+            <li>📄 My <a href="https://docs.google.com/document/d/1zn47aZaGB_musj6GxzqP4YBzlV8wcWyo4o3X02rEWQQ/edit?usp=sharing">Resume</a></li>
             <li>🎥 Interests: <strong>Cricket Enthusiast & Movie Freak</strong></li>
         </ul>
     </div>
