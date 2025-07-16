@@ -1,114 +1,69 @@
-# 🚀 Welcome to My Digital Universe
+# <div align="center">🚀 **SHAN'S CODE UNIVERSE** 🚀</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&pause=1000&color=00D8FF&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer+in+the+Making;MERN+Stack+Developer;Blockchain+Explorer;AI+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&height=100&lines=Welcome+to+My+Digital+Space;Full+Stack+Developer;MERN+Stack+Enthusiast;Building+the+Future+One+Line+at+a+Time" alt="Typing SVG" />
 </div>
 
 <div align="center">
   
-  ```ascii
-  ╔═══════════════════════════════════════════════════════════════╗
-  ║                    🌟 SHAN'S CODE LABORATORY 🌟               ║
-  ║                                                               ║
-  ║  "Every expert was once a beginner. Every pro was once an    ║
-  ║   amateur. Every icon was once an unknown."                  ║
-  ║                                                               ║
-  ╚═══════════════════════════════════════════════════════════════╝
-  ```
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:7C3AED&height=120&section=header&text=SOFTWARE%20ENGINEER%20IN%20THE%20MAKING&fontSize=30&fontColor=FFFFFF&animation=twinkling&fontAlignY=35"/>
   
 </div>
 
 ---
 
-## 🎯 Current Mission: Building the Future, One Line at a Time
+## <div align="center">🎯 **MISSION STATEMENT** 🎯</div>
 
 <div align="center">
   
-  ### 🏗️ Engineering Status: **UNDER CONSTRUCTION** 🏗️
+  <img src="https://img.shields.io/badge/Current_Status-Learning_%26_Growing-00D4FF?style=for-the-badge&logo=rocket&logoColor=white" />
+  <img src="https://img.shields.io/badge/Expertise-MERN_Stack-7C3AED?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Passion-Full_Stack_Development-FF6B6B?style=for-the-badge&logo=heart&logoColor=white" />
   
-  <img src="https://img.shields.io/badge/Progress-Learning%20%26%20Growing-brightgreen?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-Software%20Engineer%20in%20the%20Making-blue?style=for-the-badge&logo=code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Passion-Full%20Stack%20Development-red?style=for-the-badge&logo=heart&logoColor=white" />
+  ### 💡 *"Fresh graduate with a hunger for code and a vision for innovation"*
   
 </div>
 
 ---
 
-## 🌟 The Journey Map
-
-```mermaid
-graph TD
-    A[🎓 Fresh CSE Graduate] --> B[💻 MERN Stack Foundation]
-    B --> C[🔗 Blockchain Explorer]
-    C --> D[🤖 AI/LLM Enthusiast]
-    D --> E[🚀 Full Stack Engineer]
-    E --> F[🌟 Tech Innovator]
-    
-    style A fill:#FFD700
-    style B fill:#00D8FF
-    style C fill:#FF6B6B
-    style D fill:#4ECDC4
-    style E fill:#45B7D1
-    style F fill:#96CEB4
-```
-
----
-
-## 🛠️ Tech Arsenal
+## <div align="center">🛠️ **TECH ARSENAL** 🛠️</div>
 
 <div align="center">
 
-### 🎯 **Core Strength: MERN Stack** 
-*Where I shine brightest*
+### 🔥 **CORE STRENGTH: MERN STACK** 🔥
+*This is where I dominate*
 
 </div>
 
-<table>
+<table align="center">
 <tr>
-<td width="50%">
+<td width="50%" align="center">
 
-#### 🎨 **Frontend Mastery**
+### 🎨 **FRONTEND MASTERY**
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind,bootstrap,materialui" />
+
 ```javascript
-const frontendSkills = {
-  frameworks: ["React.js", "Next.js"],
-  stateManagement: ["Redux"],
+const frontend = {
+  expert: ["React.js", "Next.js", "JavaScript"],
   styling: ["Tailwind CSS", "Bootstrap", "Material UI"],
-  uiLibraries: ["Aceternity UI"],
-  passion: "Creating beautiful user experiences"
-};
-```
-
-#### 🔧 **Backend Power**
-```javascript
-const backendSkills = {
-  runtime: "Node.js",
-  framework: "Express.js",
-  database: "MongoDB",
-  cloud: "Firebase",
-  apis: "REST APIs",
-  auth: "JWT",
-  pythonFramework: "FastAPI"
+  ui: ["Aceternity UI"],
+  focus: "Beautiful User Experiences"
 };
 ```
 
 </td>
-<td width="50%">
+<td width="50%" align="center">
 
-#### 🌟 **Exploring New Horizons**
+### ⚡ **BACKEND POWER**
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,python,fastapi" />
+
 ```javascript
-const exploringTech = {
-  blockchain: {
-    platform: "Ethereum",
-    tools: ["Ethers.js", "IPFS"],
-    language: "Solidity",
-    status: "Learning & Experimenting"
-  },
-  ai: {
-    frameworks: ["Langchain", "Langgraph"],
-    focus: "LLM Integration",
-    status: "Curious Explorer"
-  },
-  languages: ["JavaScript", "TypeScript", "Python", "C/C++"]
+const backend = {
+  runtime: "Node.js",
+  framework: "Express.js", 
+  database: "MongoDB",
+  cloud: "Firebase",
+  apis: "REST APIs & JWT"
 };
 ```
 
@@ -118,58 +73,198 @@ const exploringTech = {
 
 ---
 
-## 📊 Skill Progression Dashboard
+## <div align="center">📊 **SKILL LEVELS** 📊</div>
 
 <div align="center">
 
-### 🏆 **Expertise Levels**
-
-| Technology | Proficiency | Experience Bar |
-|------------|-------------|----------------|
-| **JavaScript/TypeScript** | Advanced | ████████░░ 80% |
-| **React.js** | Advanced | ████████░░ 85% |
-| **Node.js/Express** | Intermediate+ | ███████░░░ 75% |
-| **MongoDB** | Intermediate+ | ███████░░░ 70% |
-| **Next.js** | Intermediate | ██████░░░░ 65% |
-| **Blockchain** | Beginner+ | ███░░░░░░░ 30% |
-| **LLM/AI** | Beginner+ | ███░░░░░░░ 25% |
+| **Technology** | **Proficiency** | **Experience** |
+|:---:|:---:|:---:|
+| **JavaScript/TypeScript** | `████████░░` | `85%` |
+| **React.js** | `████████░░` | `80%` |
+| **Node.js/Express** | `███████░░░` | `75%` |
+| **MongoDB** | `███████░░░` | `70%` |
+| **Next.js** | `██████░░░░` | `65%` |
+| **Blockchain** | `███░░░░░░░` | `30%` |
+| **AI/LLM** | `██░░░░░░░░` | `25%` |
 
 </div>
 
 ---
 
-## 🎨 Featured Projects Showcase
+## <div align="center">🌟 **EXPLORING NEW FRONTIERS** 🌟</div>
 
 <div align="center">
 
-### 🌟 **Portfolio Highlights**
-*Check out my work at: [shansphere.vercel.app](https://shansphere.vercel.app)*
+<img src="https://skillicons.dev/icons?i=solidity,ethereum,python" />
 
 </div>
 
+<table align="center">
+<tr>
+<td width="50%" align="center">
+
+### ⛓️ **BLOCKCHAIN JOURNEY**
+```solidity
+contract Learning {
+    string public platform = "Ethereum";
+    string[] public tools = ["Ethers.js", "IPFS"];
+    string public status = "Exploring";
+    
+    function getMotivation() public pure returns (string) {
+        return "Decentralizing the future!";
+    }
+}
+```
+
+</td>
+<td width="50%" align="center">
+
+### 🤖 **AI EXPLORATION**
+```python
+class AIExplorer:
+    def __init__(self):
+        self.frameworks = ["Langchain", "Langgraph"]
+        self.focus = "LLM Integration"
+        self.status = "Curious Learner"
+    
+    def goal(self):
+        return "Building intelligent applications"
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## <div align="center">🎯 **DEVELOPMENT TOOLS** 🎯</div>
+
+<div align="center">
+  
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify" />
+  
+  | **Category** | **Tools** |
+  |:---:|:---:|
+  | **Version Control** | Git, GitHub |
+  | **API Testing** | Postman |
+  | **Deployment** | Vercel, Netlify, Render |
+  | **Languages** | JavaScript, TypeScript, Python, C/C++, Solidity |
+  
+</div>
+
+---
+
+## <div align="center">📈 **GITHUB ANALYTICS** 📈</div>
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shanto57575&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shanto57575&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shanto57575&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Shanto57575&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Trophy" />
+
+</div>
+
+---
+
+## <div align="center">🚀 **CURRENT LEARNING PATH** 🚀</div>
+
+<div align="center">
+
+```mermaid
+%%{init: {'theme':'dark', 'themeVariables': { 'primaryColor': '#00D4FF', 'primaryTextColor': '#FFFFFF', 'primaryBorderColor': '#7C3AED', 'lineColor': '#00D4FF', 'secondaryColor': '#7C3AED', 'tertiaryColor': '#FF6B6B', 'background': '#0D1117', 'mainBkg': '#161B22', 'secondBkg': '#21262D'}}}%%
+flowchart TD
+    A[🎓 Fresh CSE Graduate] --> B[💻 MERN Stack Master]
+    B --> C[🔗 Blockchain Explorer]
+    C --> D[🤖 AI Enthusiast]
+    D --> E[🌟 Full Stack Engineer]
+    E --> F[🚀 Tech Innovator]
+    
+    classDef startNode fill:#00D4FF,stroke:#FFFFFF,stroke-width:2px,color:#000000
+    classDef processNode fill:#7C3AED,stroke:#FFFFFF,stroke-width:2px,color:#FFFFFF
+    classDef endNode fill:#FF6B6B,stroke:#FFFFFF,stroke-width:2px,color:#FFFFFF
+    
+    class A startNode
+    class B,C,D,E processNode
+    class F endNode
+```
+
+</div>
+
+---
+
+## <div align="center">💪 **SUPERPOWERS** 💪</div>
+
+<div align="center">
+
 <table>
 <tr>
-<td width="33%">
+<td width="25%" align="center">
 
-#### 🔥 **MERN Applications**
-- Full-stack web applications
-- Real-time features
-- Modern UI/UX design
+### 🧠 **PROBLEM SOLVING**
+*Lightning-fast logical thinking*
+
+</td>
+<td width="25%" align="center">
+
+### ⚡ **BIAS FOR ACTION**
+*I don't just plan, I execute*
+
+</td>
+<td width="25%" align="center">
+
+### 🤝 **TEAM COLLABORATION**
+*Better together than alone*
+
+</td>
+<td width="25%" align="center">
+
+### 🔥 **CONTINUOUS LEARNING**
+*Always hungry for knowledge*
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## <div align="center">🎨 **FEATURED PROJECTS** 🎨</div>
+
+<div align="center">
+
+### 🌐 **Check out my portfolio:** [shansphere.vercel.app](https://shansphere.vercel.app)
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### 🔥 **MERN Applications**
+- Full-stack web apps
+- Real-time features  
+- Modern UI/UX
 - Database integration
 
 </td>
-<td width="33%">
+<td width="33%" align="center">
 
-#### 🤖 **AI Experiments**
+### 🤖 **AI Experiments**
 - LLM integrations
-- Langchain implementations
 - Intelligent chatbots
 - AI-powered features
+- Langchain implementations
 
 </td>
-<td width="33%">
+<td width="33%" align="center">
 
-#### ⛓️ **Blockchain Prototypes**
+### ⛓️ **Blockchain Prototypes**
 - Smart contracts
 - DApp interfaces
 - Ethereum integration
@@ -179,154 +274,98 @@ const exploringTech = {
 </tr>
 </table>
 
+</div>
+
 ---
 
-## 🌟 What Makes Me Unique
+## <div align="center">🎯 **2024 ROADMAP** 🎯</div>
 
 <div align="center">
 
 ```
-┌─────────────────────────────────────────────────────────────────┐
-│                        🎯 MY SUPERPOWERS                        │
-├─────────────────────────────────────────────────────────────────┤
-│                                                                 │
-│  🧠 Problem Solving     │  Lightning-fast logical thinking      │
-│  ⚡ Bias for Action     │  I don't just plan, I execute         │
-│  🤝 Team Collaboration │  Better together than alone           │
-│  🔥 Continuous Learning │  Always hungry for new knowledge      │
-│  💡 Innovation Mindset  │  Turning ideas into reality          │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
+🟢 Q1: Advanced React Patterns & Next.js 14
+🟡 Q2: Full-Stack MERN Projects & Authentication
+🔵 Q3: Blockchain Fundamentals & Smart Contracts  
+🟣 Q4: AI Integration & Production Deployment
 ```
 
 </div>
 
 ---
 
-## 📈 GitHub Stats & Activity
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical"/>
-
-### 🔥 **Contribution Streak**
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="GitHub Streak" />
-
-### 🏆 **Achievement Trophies**
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Trophy" />
-
-</div>
-
----
-
-## 🎯 Current Learning Sprint
-
-<div align="center">
-
-### 🚀 **2024 Roadmap**
-
-</div>
-
-```mermaid
-timeline
-    title My Learning Journey 2024
-    
-    Q1 : Advanced React Patterns
-       : Next.js 14 Deep Dive
-       : TypeScript Mastery
-    
-    Q2 : Full-Stack MERN Projects
-       : MongoDB Advanced Features
-       : Authentication & Security
-    
-    Q3 : Blockchain Fundamentals
-       : Smart Contract Development
-       : DApp Architecture
-    
-    Q4 : AI Integration
-       : LLM Implementation
-       : Production Deployment
-```
-
----
-
-## 🎨 Code Philosophy
+## <div align="center">💻 **CODE PHILOSOPHY** 💻</div>
 
 <div align="center">
 
 ```typescript
-class SoftwareEngineerInMaking {
-  private mindset: string = "Growth-oriented";
-  private passion: string[] = ["Clean Code", "User Experience", "Innovation"];
-  private goal: string = "Building impactful solutions";
-  
-  public approach(): string {
-    return `
-      🔥 Write code that tells a story
-      🌟 Build products that solve real problems  
-      🚀 Never stop learning and growing
-      💡 Collaborate, innovate, and inspire
-    `;
-  }
-  
-  public currentFocus(): string {
-    return "Mastering MERN stack while exploring the frontiers of Web3 and AI";
-  }
+interface Developer {
+  name: string;
+  mindset: string;
+  passion: string[];
+  goal: string;
 }
 
-const shan = new SoftwareEngineerInMaking();
+const shan: Developer = {
+  name: "Shan",
+  mindset: "Growth-oriented & Solution-focused",
+  passion: ["Clean Code", "User Experience", "Innovation"],
+  goal: "Building impactful solutions that matter"
+};
+
+// My approach to development
+const approach = {
+  code: "Write code that tells a story",
+  product: "Build solutions that solve real problems",
+  growth: "Never stop learning and evolving",
+  collaboration: "Innovate together, achieve more"
+};
 ```
 
 </div>
 
 ---
 
-## 🌐 Connect & Collaborate
+## <div align="center">🌐 **LET'S CONNECT** 🌐</div>
 
 <div align="center">
-
-### 🤝 **Let's Build Something Amazing Together!**
 
 <a href="https://shansphere.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Universe-ff6b6b?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-Visit_My_Universe-00D4FF?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 <a href="mailto:your.email@example.com">
-  <img src="https://img.shields.io/badge/Email-Let's%20Connect-blue?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-Let's_Connect-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://linkedin.com/in/your-profile">
-  <img src="https://img.shields.io/badge/LinkedIn-Professional%20Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Professional_Network-FF6B6B?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
+</div>
 
 ---
 
-### 💬 **Open to Opportunities**
+## <div align="center">🎯 **CURRENTLY SEEKING** 🎯</div>
+
+<div align="center">
 
 ```
-🎯 Seeking: Entry-level Full Stack Developer roles
-🌟 Interested in: Startups, Tech companies, Remote work
-💡 Excited about: MERN projects, AI integration, Blockchain experiments
-🤝 Available for: Collaboration, Open source contributions, Learning partnerships
+🎯 Looking for: Entry-level Full Stack Developer positions
+🌟 Interested in: Startups, Tech companies, Remote opportunities
+💡 Excited about: MERN projects, AI integration, Web3 exploration
+🤝 Available for: Collaborations, Open source contributions, Learning partnerships
 ```
+
+</div>
 
 ---
 
 <div align="center">
   
-  ### 🌟 **Thank you for visiting my digital space!** 🌟
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:00D4FF&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=30&fontColor=FFFFFF&animation=twinkling&fontAlignY=75"/>
   
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=brightgreen&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Shanto57575&label=Profile%20views&color=00D4FF&style=flat" alt="Profile views" />
   
-  ---
-  
-  **⭐ If you found this interesting, consider giving it a star!**
+  ### ⭐ **If you found this interesting, consider giving it a star!** ⭐
   
   <sub>Built with ❤️ by a passionate software engineer in the making</sub>
   
-</div>
-
----
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&pause=1000&color=00D8FF&center=true&vCenter=true&width=500&height=50&lines=Ready+to+Code+the+Future;Let's+Build+Something+Incredible;The+Journey+Continues..." alt="Footer Typing SVG" />
 </div>
