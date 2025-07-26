@@ -2,7 +2,7 @@
 
 <div align="center">
   
-🎯 *Full Stack Developer | MERN Enthusiast | AI & LLM Integrations Explorer* 🎯  
+🎯 *CSE Graduate | Full Stack Developer | AI & LLM Integrations Explorer* 🎯  
 
 <a href="https://shansphere.vercel.app"><img src="https://img.shields.io/badge/Portfolio-shansphere.vercel.app-305CDE?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="mailto:shanto57575@gmail.com"><img src="https://img.shields.io/badge/Email-mdshahidulislam57575@gmail.com-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -29,7 +29,7 @@ I enjoy **turning ideas into functional, user-friendly web applications** while 
 <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,nodejs,express,mongodb,tailwind" />
 
 ### ⚡ **Other Tools & Skills**  
-<img src="https://skillicons.dev/icons?i=c++,python,fastapi,langchain,firebase,git,github,vercel,render,postman" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,cpp,firebase,git,github,vercel,postman" />
 
 ---
 
