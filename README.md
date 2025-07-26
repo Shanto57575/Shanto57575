@@ -79,7 +79,7 @@ I enjoy **turning ideas into functional, user-friendly web applications** while 
 
 ## 📬 **Let's Connect!**
 📌 **Portfolio:** [shansphere.vercel.app](https://shansphere.vercel.app)  
-📩 **Email:** [shanto57575@gmail.com](mailto:shanto57575@gmail.com)
+📩 **Email:** [shanto57575@gmail.com](mailto:shanto57575@gmail.com)  
 🔗 **LinkedIn:** [linkedin.com/in/md-shahidul-islam-shanto](https://www.linkedin.com/in/md-shahidul-islam-shanto/)  
 💻 **GitHub:** [github.com/Shanto57575](https://github.com/Shanto57575)
 
