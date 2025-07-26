@@ -20,6 +20,8 @@ I enjoy **turning ideas into functional, user-friendly web applications** while 
 - 🎯 Currently **building MERN applications & AI integrations**  
 - 🔗 Exploring **LLMs, LangChain, LangGraph & AI-powered solutions**  
 - 💡 Problem-solver with **700+ solved CP problems** and **ICPC 2022 Asia Dhaka rank 325**  
+- 🚀 Passionate about building scalable, impactful digital products
+- 🌍 Driven to contribute to open-source and next-gen web solutions
 
 ---
 
@@ -46,17 +48,14 @@ I enjoy **turning ideas into functional, user-friendly web applications** while 
 
 ---
 
-## 📈 **GitHub Stats**
-
+<div align="center">📊 GITHUB ANALYTICS 📊</div>
 <div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Shanto57575&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shanto57575&layout=compact&theme=radical&hide_border=true" />
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shanto57575&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=4F46E5"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shanto57575&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
 <br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shanto57575&theme=radical&hide_border=true" alt="GitHub Streak" />
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shanto57575&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=4F46E5&fire=10B981&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=FFFFFF" alt="GitHub Streak" />
+<br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shanto57575&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=4F46E5&point=10B981" alt="Contribution Graph" />
 </div>
 
 ---
