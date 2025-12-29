@@ -14,10 +14,10 @@
 ---
 
 ## 🌟 **About Me**
-Hi! I'm **Md. Shahidul Islam (Shanto)** – a **MERN Stack Developer** with a **competitive programming** background, passionate about **AI, and building impactful digital solutions**.  
+Hi! I'm **Md. Shahidul Islam (Shanto)** – a **Full Stack Developer** with a **competitive programming** background, passionate about **AI, and building impactful digital solutions**.  
 I enjoy **turning ideas into functional, user-friendly web applications** while continuously exploring emerging technologies.
 
-- 🎯 Currently **building MERN applications & AI integrations**  
+- 🎯 Currently **building MERN/PERN applications & AI integrations**  
 - 🔗 Exploring **LLMs, LangChain, LangGraph & AI-powered solutions**  
 - 💡 Problem-solver with **700+ solved CP problems** and **ICPC 2022 Asia Dhaka rank 325**  
 - 🚀 Passionate about building scalable, impactful digital products
@@ -39,6 +39,7 @@ I enjoy **turning ideas into functional, user-friendly web applications** while 
 
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|-------|
+| **Prolancer** | Freelancing Marketplace app with **chat integration** & Stripe payments | NextJs, Typescript, Pusher, Node.js/express.js, JWT, Stripe | [🔗 Live](https://prolancer-olive.vercel.app) / [📂 client](https://github.com/Shanto57575/prolancer_client) | [📂 Server](https://github.com/Shanto57575/prolancer_server) |
 | **StayZest** | Booking app with **AI trip planning** & Stripe payments | MERN, Redux, JWT, Stripe, AI | [🔗 Live](https://stayzest-cbf59.web.app) / [📂 Code](https://github.com/Shanto57575/StayZest) |
 | **Epic Care** | Doctor appointment system with secure dashboards | MERN, JWT, Stripe, TanStack Query | [🔗 Live](https://doctreat-8f71f.web.app) / [📂 Client](https://github.com/Shanto57575/doctreat-client) / [📂 Server](https://github.com/Shanto57575/doctreat__server) |
 | **Insta-X Bridge** | API that **fetches Instagram posts**, summarizes captions & tweets them | Python, FastAPI, Groq, X API | [📂 Code](https://github.com/Shanto57575/insta-x-bridge) |
