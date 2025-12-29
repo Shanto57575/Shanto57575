@@ -39,7 +39,7 @@ I enjoy **turning ideas into functional, user-friendly web applications** while 
 
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|-------|
-| **Prolancer** | Freelancing Marketplace app with **chat integration** & Stripe payments | NextJs, Typescript, Pusher, Node.js/express.js, JWT, Stripe | [🔗 Live](https://prolancer-olive.vercel.app) / [📂 client](https://github.com/Shanto57575/prolancer_client) | [📂 Server](https://github.com/Shanto57575/prolancer_server) |
+| **Prolancer** | Freelancing Marketplace app with **chat integration** & Stripe payments | NextJs, Typescript, Pusher, Node.js/express.js, JWT, Stripe | [🔗 Live](https://prolancer-olive.vercel.app) / [📂 client](https://github.com/Shanto57575/prolancer_client) / [📂 Server](https://github.com/Shanto57575/prolancer_server)
 | **StayZest** | Booking app with **AI trip planning** & Stripe payments | MERN, Redux, JWT, Stripe, AI | [🔗 Live](https://stayzest-cbf59.web.app) / [📂 Code](https://github.com/Shanto57575/StayZest) |
 | **Epic Care** | Doctor appointment system with secure dashboards | MERN, JWT, Stripe, TanStack Query | [🔗 Live](https://doctreat-8f71f.web.app) / [📂 Client](https://github.com/Shanto57575/doctreat-client) / [📂 Server](https://github.com/Shanto57575/doctreat__server) |
 | **Insta-X Bridge** | API that **fetches Instagram posts**, summarizes captions & tweets them | Python, FastAPI, Groq, X API | [📂 Code](https://github.com/Shanto57575/insta-x-bridge) |
