@@ -54,7 +54,9 @@ I enjoy **turning ideas into functional, user-friendly web applications** while 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shanto57575&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=4F46E5"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shanto57575&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
 <br/>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Shanto57575)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com/?user=Shanto57575&theme=tokyonight" alt="GitHub Streak"/>
+</a>
 <br/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shanto57575&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=4F46E5&point=10B981" alt="Contribution Graph" />
 </div>
